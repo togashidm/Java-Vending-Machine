@@ -9,3 +9,5 @@ The main goals are:
 	+ Recognize different users (costumer and administrator) from an external file
 	+ Record current balance to an external file
   + Administrator able to add new items or reload items, record the items in the machine to an external file, and shutdown the system.
+
+<center><img src="/Login.png"  width="400" height="300"> </center>
