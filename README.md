@@ -10,4 +10,6 @@ The main goals are:
 	+ Record current balance to an external file
   + Administrator able to add new items or reload items, record the items in the machine to an external file, and shutdown the system.
 ***
-<img style="float: right;" src="/Login.png"  width="400" height="300">
+<p align="center" >
+<img src="Login.png"  width="400" height="300">
+</p>
