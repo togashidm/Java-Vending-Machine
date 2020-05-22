@@ -13,3 +13,13 @@ The main goals are:
 <p align="center" >
 <img src="Login.png"  width="400" height="300">
 </p>
+
+***
+<p align="center" >
+<img src="ClientMenu.png"  width="400" height="300">
+</p>
+
+***
+<p align="center" >
+<img src="AdminMenu.png"  width="400" height="300">
+</p>
